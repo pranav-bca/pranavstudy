@@ -13,6 +13,8 @@ Curated learning resources aligned with your syllabus for:
 - ☕ Java Programming
 
 ---
+📺 [Watch All Videos by Topic](./videos.md)
+
 
 ## 🖥️ Operating System Concepts
 
