@@ -3,6 +3,25 @@ layout: default
 title: BCA 3rd Semester Resources
 ---
 
+#Revision - BCA 2nd semester Data structures Visual playgrounds
+
+---
+
+## 🧠 [VisuAlgo](https://visualgo.net/en)
+- Developed by the National University of Singapore
+- Topics include sorting, trees, graphs, recursion, and more
+- Offers quizzes and step-by-step walkthroughs
+- Suitable for beginners to advanced learners
+
+  ---
+
+## 🧮 [Data Structure Visualizations by David Galles](https://www.cs.usfca.edu/~galles/visualization/)
+- Clear animations of core structures: stacks, queues, trees, graphs
+- Simple, easy-to-navigate interface
+- Great for grasping the basics
+
+
+
 # 🎓 Osmania University – BCA 3rd Semester
 
 Curated learning resources aligned with your syllabus for:
