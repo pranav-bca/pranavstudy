@@ -15,7 +15,7 @@ Explore interactive visualizations for each topic in the OU CS 2413 Data Structu
 - Offers quizzes and step-by-step walkthroughs
 - Suitable for beginners to advanced learners
 
-## 🧮 [Data Structure Visualizations by David Galles](https://www.cs.usfca.edu/~galles/visualization/)
+## 🧮 [Data Structure Visualizations by David Galles](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html))
 - Clear animations of core structures: stacks, queues, trees, graphs
 - Simple, easy-to-navigate interface
 - Great for grasping the basics
