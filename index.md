@@ -9,64 +9,16 @@ title: BCA 3rd Semester Resources
 Explore interactive visualizations for each topic in the OU CS 2413 Data Structures course.
 
 ---
+## 🧠 [VisuAlgo](https://visualgo.net/en)
+- Developed by the National University of Singapore
+- Topics include sorting, trees, graphs, recursion, and more
+- Offers quizzes and step-by-step walkthroughs
+- Suitable for beginners to advanced learners
 
-## 📋 Arrays
-- [VisuAlgo – Array](https://visualgo.net/en/list)
-- [David Galles – Array](https://www.cs.usfca.edu/~galles/visualization/Array.html)
-
----
-
-## 🔗 Linked Lists
-- [VisuAlgo – Linked List](https://visualgo.net/en/list)
-- [David Galles – Linked List](https://www.cs.usfca.edu/~galles/visualization/LinkedList.html)
-
----
-
-## 📚 Stacks
-- [VisuAlgo – Stack](https://visualgo.net/en/list)
-- [David Galles – Stack](https://www.cs.usfca.edu/~galles/visualization/StackArray.html)
-
----
-
-## 📬 Queues
-- [VisuAlgo – Queue](https://visualgo.net/en/list)
-- [David Galles – Queue](https://www.cs.usfca.edu/~galles/visualization/QueueArray.html)
-
----
-
-## 🌳 Trees (Binary, AVL, Red-Black, Splay, 2-3)
-- [VisuAlgo – Binary Tree](https://visualgo.net/en/bst)
-- [VisuAlgo – AVL Tree](https://visualgo.net/en/avl)
-- [VisuAlgo – Red-Black Tree](https://visualgo.net/en/rbtree)
-- [VisuAlgo – Splay Tree](https://visualgo.net/en/splaytree)
-- [VisuAlgo – B-Tree (2-3 Tree)](https://visualgo.net/en/btree)
-- [David Galles – Binary Tree](https://www.cs.usfca.edu/~galles/visualization/BinaryTree.html)
-- [David Galles – AVL Tree](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
-- [David Galles – Red-Black Tree](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
-
----
-
-## 🧮 Heaps & Priority Queues
-- [VisuAlgo – Heap](https://visualgo.net/en/heap)
-- [David Galles – Heap](https://www.cs.usfca.edu/~galles/visualization/Heap.html)
-
----
-
-## 🕸️ Graphs
-- [VisuAlgo – Graph Algorithms](https://visualgo.net/en/graphds)
-- [David Galles – Graph](https://www.cs.usfca.edu/~galles/visualization/Graph.html)
-
----
-
-## 🔐 Hashing
-- [VisuAlgo – Hash Table](https://visualgo.net/en/hashtable)
-- [David Galles – Hash Table](https://www.cs.usfca.edu/~galles/visualization/OpenHash.html)
-
----
-
-## 🔍 Sorting Algorithms
-- [VisuAlgo – Sorting](https://visualgo.net/en/sorting)
-- [David Galles – Sorting](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
+## 🧮 [Data Structure Visualizations by David Galles](https://www.cs.usfca.edu/~galles/visualization/)
+- Clear animations of core structures: stacks, queues, trees, graphs
+- Simple, easy-to-navigate interface
+- Great for grasping the basics
 
 
 
